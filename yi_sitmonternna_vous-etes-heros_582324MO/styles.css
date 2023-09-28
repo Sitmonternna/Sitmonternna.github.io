@@ -1,0 +1,116 @@
+:root{
+    --brown: #6C584C;
+    --vertfonce:#808768;
+    --vertfont:#727e50;
+    --vertpale: #949b7d;
+    --beige: #F0EAD2;
+}
+
+@font-face {
+    font-family: "montserra";
+    src: url(./font/montserrat/Montserrat-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "titre";
+    src: url(./font/title/TT\ Rounds\ Neue\ Trial\ Bold.ttf) format("truetype");
+}
+
+body{
+    background-color: var(--vertfonce);
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#jeu{
+    width: 900px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    background-color: var(--vertpale);
+    
+}
+
+#titre{
+    color: var(--vertfont);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 2em;
+    font-family: "titre";
+}
+
+#image{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 70%;
+    height: 80%;
+    background: url(./images/house.jpg);
+    background-size: 100%;
+    margin-top: 5%;
+}
+
+#btn{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 20%;
+    margin-bottom: 5%;
+}
+
+#gauche, #centre, #droit{
+    display:flex;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 140px;
+    height: 40px;
+    color: white;
+    background-color: #717858;
+    border: 2px white solid;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "montserra";
+    font-weight: 600;
+}
+
+#gauche:hover, #centre:hover, #droit:hover{
+    color: var(--beige);
+    background-color: var(--brown);
+    border: 2px var(--beige) solid;
+}
+
+#chapitre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--vertfont);
+    font-size: 40px;
+    font-family: "montserra";
+    background-size: 60px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 40px 0 0 40px;
+    margin-top: -5%;
+    margin-bottom: 2%;
+    font-weight: 500;
+}
+
+#texte{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    font-size: 20px;
+    color: var(--vertfont);
+    text-align: justify;
+    width: 700px;
+    font-family: "montserra";
+    font-weight: 500;
+}

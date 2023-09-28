@@ -1,0 +1,322 @@
+<mxfile host="65bd71144e">
+    <diagram id="G_w7JiNvkzIn2DHgnQeM" name="Page-1">
+        <mxGraphModel dx="2579" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Genre: Aventure&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;Inspiration: Isekai Campfire&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Nom: Sauve toi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-1160" y="20" width="460" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="253" style="html=1;strokeWidth=4;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1" y="710" as="targetPoint"/>
+                        <mxPoint x="-1" y="590" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="Tu te retrouves dans un nouveau monde étranger et pour retourner dans ton monde, tu dois créer une potion à l'aide des ingrédients retrouvés dans la nature." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=35;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="-350" y="370" width="690" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=35;strokeColor=#000000;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-5.484999999999891" y="1350" as="sourcePoint"/>
+                        <mxPoint x="-5.49" y="1520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Champignons&lt;br&gt;changent de couleurs&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=35;fontColor=#000000;labelBackgroundColor=#808080;" parent="23" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="-5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;" parent="1" source="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="130" y="920" as="sourcePoint"/>
+                        <mxPoint x="360" y="1180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Cochon&lt;br&gt;mauve" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="26" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-3" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.009;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=4;" parent="1" source="21" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-605" y="1510" as="sourcePoint"/>
+                        <mxPoint x="-275" y="1500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="fraise&lt;br&gt;volante" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="29" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="250" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;entryX=-0.002;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="31" target="282" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-460" y="1940"/>
+                        </Array>
+                        <mxPoint x="-180" y="1940" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="Ce fruit possède une bonne source de vitamines et de fibres." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#638771;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-560" y="1090" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0.99;exitY=0.498;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;entryX=-0.009;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="265" target="62" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="3438" as="sourcePoint"/>
+                        <mxPoint x="365" y="3438" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="Poulet&amp;nbsp;&lt;br&gt;bleu et&lt;br&gt;mauve" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="60" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="C'est un poulet sauvage, il attaques tout ce qu'il voit." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="3330" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0.012;exitY=0.498;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="265" target="65" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-170" y="3440" as="sourcePoint"/>
+                        <mxPoint x="-355" y="3440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="Poivrons&lt;br&gt;noirs &lt;br&gt;et rouges" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="63" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Possèdent des paticules toxiques lorqu'il est consommé avec des tomates qui crachent du feu." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#638771;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-560" y="3320" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 40px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Palette:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 25px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Couleur de fond du site:&amp;nbsp;&lt;/span&gt;#808768&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Couleur de fond du contenue:&amp;nbsp;&lt;/span&gt;#949b7d&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Couleur de police: #&lt;/span&gt;727e50&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Couleur des bouttons: #&lt;/span&gt;#717858&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Couleur des bouttons en&amp;nbsp;&lt;i&gt;hover&lt;/i&gt;:&amp;nbsp;&lt;/span&gt;#6C584C&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Couleur des polices de bouttons: #&lt;/span&gt;white&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Couleur des polices de bouttons en&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;hover&lt;/i&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;: #&lt;/span&gt;F0EAD2&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-630" y="20" width="620" height="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0.989;exitY=0.502;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;exitPerimeter=0;entryX=-0.007;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="258" target="85" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="2327.5" as="sourcePoint"/>
+                        <mxPoint x="360" y="2320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="84" value="oignons&amp;nbsp;&lt;br&gt;qui&amp;nbsp;&lt;br&gt;pleurent" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="83" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="269" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;" parent="1" source="85" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="800" y="2280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="800" y="2310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="L' oignon possède des gouttes de larmes empoisonné." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="2200" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#3333FF;strokeWidth=4;startArrow=none;" parent="1" source="88" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-174.2" y="2322.04" as="sourcePoint"/>
+                        <mxPoint x="-390" y="2320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="89" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0.504;exitY=0.989;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;exitPerimeter=0;" parent="1" source="258" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="25" y="2470" as="sourcePoint"/>
+                        <mxPoint x="-4" y="2630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="90" value="Tomates qui crachent&lt;br&gt;du feu" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="89" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Choisir votre premier ingrédient&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=35;fillColor=#465B8A;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-178.02" y="1000" width="346.05" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="273" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#000000;" parent="1" target="258" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-5" y="2050" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="263" style="edgeStyle=none;html=1;exitX=0.533;exitY=0.988;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="124" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="2950" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="124" value="Le feu que la tomate crache possède des vitamines D." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#798A7A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-105" y="2630" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="264" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="3250" as="targetPoint"/>
+                        <mxPoint y="3170" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="Cette patate contient beaucoup de fibres et est très délicieuse." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#798A7A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-105" y="3700" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="267" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;" parent="1" target="204" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="4320" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="129" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="127" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-105" y="3800" as="sourcePoint"/>
+                        <mxPoint y="4100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="204" value="mélange d'ingrédients" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=35;fillColor=#465B8A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-140" y="4420" width="290" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="205" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;strokeColor=#000000;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="0.009999999999990905" y="4680" as="sourcePoint"/>
+                        <mxPoint y="4910" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="206" value="premier ingrédient &lt;br&gt;choisi-&lt;br&gt;champignons &lt;br&gt;changent&lt;br&gt;couleurs" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="205" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="5" y="-15" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="208" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=0.013;exitY=0.502;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="204" target="210" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-635" y="4550" as="sourcePoint"/>
+                        <mxPoint x="-370" y="4540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="209" value="premier ingrédient &lt;br&gt;choisi -&lt;br&gt;fraise volante" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="208" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="14" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="271" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeColor=#000000;strokeWidth=4;fontSize=30;" parent="1" source="210" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-800" y="3400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-800" y="4550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="210" value="Oops, il vous manque un ingrédient crucial pour la création de votre potion. Veuillez retourner pour le chercher." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#638771;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-600" y="4440" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="272" style="html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.485;entryY=-0.008;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;entryPerimeter=0;" parent="1" source="213" target="248" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="213" value="Tous ces ingrédients sont harmonieux ensemble et est délicieux comme plat à manger." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#798A7A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-115" y="4910" width="230" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="233" value="" style="endArrow=classic;html=1;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="62" target="20" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="2185" as="sourcePoint"/>
+                        <mxPoint x="500" y="2080" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="800" y="3440"/>
+                            <mxPoint x="800" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="235" value="" style="endArrow=classic;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;" parent="1" source="65" target="20" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-40" y="3035" as="sourcePoint"/>
+                        <mxPoint x="-880" y="2520" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-800" y="3440"/>
+                            <mxPoint x="-800" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="248" value="Bravo, vous avez survécu à cette aventure et vous pouvez retourner dans votre monde." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-173.02999999999997" y="5220" width="360.01" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="249" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=4;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="282" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="465" y="1950"/>
+                        </Array>
+                        <mxPoint x="250" y="1950" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="Bonne source de protéines." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="1080" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="255" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=30;strokeWidth=4;strokeColor=#000000;" parent="1" source="252" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-5.857142857142662" y="999.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="252" value="Autour de vous se retrouve différents ingrédients, veuillez choisir votre premier ingrédient." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=35;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="-222.5" y="710" width="435" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="257" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;" parent="1" source="256" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-5" y="1830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="256" value="Champignon rare qui aide à guérir les blesser." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#798A7A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-105" y="1520" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="258" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Choisir votre deuxième ingrédient&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=35;fillColor=#465B8A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-178.02" y="2140" width="346.05" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="268" style="edgeStyle=elbowEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;" parent="1" source="88" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-800" y="2280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-800" y="2320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="88" value="Vous être mort. La salade cour après vous et vous tomber dans un trou de sol." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#638771;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-560" y="2200" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="261" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=4;fontSize=30;exitX=0.011;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="258" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-180" y="2320" as="sourcePoint"/>
+                        <mxPoint x="-360" y="2320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="262" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 25px;&quot;&gt;Salade qui&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 25px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 25px;&quot;&gt;cours&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;strokeColor=#141F54;fontSize=30;fontColor=#000000;labelBackgroundColor=#808080;" parent="261" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="266" style="edgeStyle=none;html=1;exitX=0.499;exitY=0.984;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;fontSize=30;exitPerimeter=0;" parent="1" source="265" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="3700" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="265" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Choisir votre troisième ingrédient&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=35;fillColor=#465B8A;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-173.03" y="3250" width="346.05" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="274" value="Patate orange" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="1" connectable="0" vertex="1">
+                    <mxGeometry x="0.009467229083114148" y="3649.999322222142" as="geometry"/>
+                </mxCell>
+                <mxCell id="275" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=25;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=4;entryX=0.002;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="204" target="277" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="995" y="4620" as="sourcePoint"/>
+                        <mxPoint x="995" y="4500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="276" value="premier ingrédient &lt;br&gt;choisi -&lt;br&gt;cochon mauve" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=0;fontFamily=Times New Roman;fontSize=25;fontColor=#000000;labelBackgroundColor=#808080;" parent="275" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="278" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;strokeColor=#000000;strokeWidth=4;" parent="1" source="277" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="800" y="3330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="277" value="Oops, il vous manque un ingrédient crucial pour la création de votre potion. Veuillez retourner pour le chercher." style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="4450" width="200" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="281" value="&lt;span style=&quot;color: rgb(240, 240, 240);&quot;&gt;Bravo, vous avez choisi le bon ingrédient, vous avez survécu au premier défi. Veullez continuer votre aventure.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-175.01" y="4100" width="360.01" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="282" value="&lt;span style=&quot;color: rgb(240, 240, 240);&quot;&gt;Bravo, vous avez choisi le bon ingrédient, vous avez survécu au premier défi. Veullez continuer votre aventure.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-170" y="1840" width="360.01" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="283" value="&lt;span style=&quot;color: rgb(240, 240, 240);&quot;&gt;Bravo, vous avez choisi le bon ingrédient, vous avez survécu au premier défi. Veullez continuer votre aventure.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fontFamily=Times New Roman;fontSize=25;fillColor=#000000;strokeColor=#FFFFFF;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-178.02" y="2970" width="360.01" height="220" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
