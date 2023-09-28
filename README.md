@@ -7,4 +7,4 @@
   
   Palette de couleur: [Coolors](https://coolors.co/palette/ccd5ae-e9edc9-fefae0-faedcd-d4a373)
 # Diagramme
-![schéma de l'histoire](https://github.com/Sitmonternna/vous_etes_le_heros-sauve_toi-/blob/main/schema.png)
+![schéma de l'histoire](https://github.com/Sitmonternna/vous_etes_le_heros-sauve_toi-/blob/main/schema-scenario)
