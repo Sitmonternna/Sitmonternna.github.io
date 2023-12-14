@@ -1,0 +1,358 @@
+:root{
+    --beigeBlanc: #faf7f0;
+    --caramel: #c59f73;
+    --gris: #e2dac9;
+    --hazel: #e8d0a3;
+    --grisFonce: #7c6d62;
+    --noir: #2a2a21;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(../font/Montserrat-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "title";
+    src: url(../font/VarelaRound-Regular.ttf) format("truetype");
+}
+
+body{
+    background-color: var(--gris);
+    justify-content: center;
+    margin-top: 7%;
+}
+
+#jeu{
+    width: 900px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    margin-left: 27%;
+    margin-top: -2%;
+    background-color: var(--beigeBlanc);
+}
+
+#titre{
+    color: var(--grisFonce);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 2em;
+    font-family: "title";
+}
+
+#image{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 80%;
+    height: 100%;
+    background-size: cover;
+    background: url(../images/house.jpg);
+    background-size: 100%;
+}
+
+.btn{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 20%;
+    margin-bottom: 5%;
+}
+
+.gauche, .centre, .droit{
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+    height: 40px;
+    color: var(--beigeBlanc);
+    background-color: var(--noir);
+    border: 2px white solid;
+    border-radius: 40px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.gauche:hover, .centre:hover, .droit:hover{
+    color: var(--caramel);
+    background-color: var(--hazel);
+    border: 3px var(--caramel) solid;
+}
+
+#chapitre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--grisFonce);
+    font-size: 40px;
+    background-size: 60px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 40px 0 0 40px;
+    margin-top: -5%;
+    margin-bottom: 2%;
+    font-weight: 500;
+    font-family: "Montserrat";
+
+}
+
+#texte{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    font-size: 15px;
+    color: var(--grisFonce);
+    text-align: justify;
+    width: 700px;
+    font-weight: 500;
+    font-family: "Montserrat";
+
+}
+
+@media only screen and (max-width: 1500px) {
+    #jeu{
+        width: 800px;
+        height: 700px;
+        margin-left: 20%;
+        margin-top: 5%;
+
+    }
+    #chapitre{
+        font-size: 40px;
+    }
+    #texte{
+        font-size: 15px;
+        width: 630px;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 2.5em;
+    }
+  }
+
+@media only screen and (min-width: 1900px) {
+    #jeu{
+        width: 50%;
+        height: 55%;
+        margin-left: 20%;
+        margin-top: 5%;
+
+    }
+    #chapitre{
+        font-size: 40px;
+    }
+    #texte{
+        font-size: 15px;
+        width: 630px;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 2.5em;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    #jeu{
+        width: 600px;
+        height: 500px;
+        margin-left: 20%;
+        margin-top: 5%;
+
+    }
+    #chapitre{
+        font-size: 30px;
+    }
+    #texte{
+        font-size: 10px;
+        width: 500px;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 1.5em;
+    }
+  }
+
+@media only screen and (max-width: 810px) {
+    #jeu{
+        width: 600px;
+        height: 500px;
+        margin-left: 15%;
+        margin-top: 10%;
+
+    }
+    #chapitre{
+        font-size: 30px;
+    }
+    #texte{
+        font-size: 10px;
+        width: 500px;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 1.5em;
+    }
+  }
+
+  @media only screen and (max-width: 640px) {
+    #jeu{
+        width: 500px;
+        height: 400px;
+        margin-left: 10%;
+        margin-top: 20%;
+
+    }
+    #chapitre{
+        font-size: 20px;
+    }
+    #texte{
+        font-size: 10px;
+        width: 400px;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 1em;
+    }
+    .btn{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: flex-end;
+        height: 20%;
+        margin-top: 2%;
+        margin-bottom: 5%;
+    }
+  }
+
+
+@media only screen and (max-width: 480px) {
+    #jeu{
+        width: 400px;
+        height: 300px;
+        margin-left: 7%;
+        margin-top: 40%;
+    }
+    #chapitre{
+        font-size: 10px;
+        margin-top: -7%;
+    }
+    #texte{
+        font-size: 8px;
+        width: 310px;
+        height: 20px;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 15px;
+        margin-top: -17%;
+    }
+    .btn{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: flex-end;
+        height: 20%;
+        margin-top: 2%;
+        margin-bottom: 5%;
+    }
+    .gauche, .centre, .droit{
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 50px;
+    height: 20px;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 500;
+    }
+    #checkbox{
+        margin-top: 15% ;
+        margin-left: 5%;
+    }
+}
+
+
+
+@media only screen and (max-width: 240px) {
+    #jeu{
+        width: 200px;
+        height: 180px;
+        margin-left: 1%;
+        margin-top: 100%;
+    }
+    #chapitre{
+        font-size: 10px;
+        margin-top: 10%;
+        height: 12px;
+    }
+    #texte{
+        font-size: 5px;
+        width: 180px;
+        margin-top: -5%;
+    }
+    #titre{
+        color: var(--grisFonce);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-size: 13px;
+        margin-top: -8%;
+        height: 15px;
+    }
+    .btn{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: flex-end;
+        height: 20%;
+        margin-top: 2%;
+        margin-bottom: 5%;
+    }
+    .gauche, .centre, .droit{
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    height: 30px;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 500;
+    }
+    #checkbox{
+    margin-top: 5% ;
+    margin-left: 5%;
+    }
+}
